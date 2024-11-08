@@ -1,0 +1,1 @@
+{"version":3,"file":"useMediaQuery.d.ts","sourceRoot":"","sources":["../../../../src/hooks/responsive/useMediaQuery.tsx"],"names":[],"mappings":"AAEA,KAAK,eAAe,GAAG;IACrB,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,QAAQ,CAAC,EAAE,MAAM,CAAC;CACnB,CAAC;AAEF,KAAK,eAAe,GAAG,eAAe,EAAE,CAAC;AAEzC,QAAA,MAAM,aAAa,2CAkBlB,CAAC;AAEF,OAAO,EAAE,aAAa,EAAE,CAAC"}
